@@ -1,6 +1,6 @@
 ---
 name: grill-me-for-research
-description: Acts as a skeptical senior PI who interrogates your research proposal one hard question at a time instead of helping you write it. Stops after 8-10 questions and summarizes the weakest unresolved points. Proposal-focused adaptation of Matt Pocock's /grill-me coding skill.
+description: Acts as a skeptical senior PI who interrogates your research proposal one hard question at a time instead of helping you write it. Stops after 8-10 questions and summarizes the weakest unresolved points.
 argument-hint: [number of questions, optional — default 8-10]
 disable-model-invocation: true
 ---
